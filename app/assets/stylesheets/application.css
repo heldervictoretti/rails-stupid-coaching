@@ -14,9 +14,9 @@
  *= require_self
  */
 
-
  #button {
   background-color: blue;
   color: white;
   border-radius: 10px;
+  text-align: center;
  }
